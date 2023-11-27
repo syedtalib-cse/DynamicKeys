@@ -1,0 +1,24 @@
+//
+//  student.json
+//  DynamicKeys
+//
+//  Created by Talib on 16/09/22.
+//
+
+import Foundation
+
+
+{
+  "S001": {
+    "firstName": "Tony",
+    "lastName": "Stark"
+  },
+  "S002": {
+    "firstName": "Peter",
+    "lastName": "Parker"
+  },
+  "S003": {
+    "firstName": "Bruce",
+    "lastName": "Wayne"
+  }
+}
